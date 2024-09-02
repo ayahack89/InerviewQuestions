@@ -1,4 +1,4 @@
-# HiredHacker
+# InterviewQuestions
 **All Important Technical and HR questions**
 
 <h2>Top 5 HR Interview Questions</h2>
