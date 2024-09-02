@@ -1,16 +1,25 @@
-# InterviewQuestions
-**All Important Technical and HR questions**
+#InterviewQuestions
 
-<h2>Top 5 HR Interview Questions</h2>
-<p>Top 5 hr interview questions you must prepare.</p>
-<ul>
-<li>a) Tell me about yourself.</li>
-My name is Ayanabha Chatterjee. I perusing BCA form Brainware University. I have done my schooling from Dum Dum K.K. Hindu Academy. I am a passionate software developer with a 2 years of experience work on creative projects like Agguora a social media platform , ELocker  a secure password manager. and many more. 
+**Top 5 HR Interview Questions**
 
-My skills is to build scalable , secure and user friendly application and I am confident and passionate on my skills. My profession and passion both are coding at free time I like to explore and study about new technologies. And also I am a active user of linked and reddit here I join communities to gain more knowledge for self growth.  
-<li>b) Why do you want to work here?</li>
-I think as per the job description my skilles are perfect match for this job role and i believe in my skills that I am passionane that my work add some value of your organization.
-<li>c) What are your strengths and weaknesses?</li>
-<li>d) Describe a challenging situation you faced at work and how you dealt with it.</li>
-<li>e) Where do you see yourself in 5 years?</li>
-</ul>
+1. **Tell me about yourself.**
+
+   My name is Ayanabha Chatterjee, and I am currently pursuing a BCA at Brainware University. I completed my schooling at Dum Dum K.K. Hindu Academy. I am a passionate software developer with over two years of experience working on creative projects such as Agguora, a social media platform, and ELocker, a secure password manager, among others.
+
+   My skills lie in building scalable, secure, and user-friendly applications. I am confident in my abilities and passionate about coding. In my free time, I love to explore and learn about new technologies. I am also an active user of LinkedIn and Reddit, where I join communities to gain knowledge and grow professionally.
+
+2. **Why do you want to work here?**
+
+   I believe that my skills and experience are a perfect match for this role, as described in the job description. I am passionate about my work and confident that I can bring value to your organization through my dedication and expertise.
+
+3. **What are your strengths and weaknesses?**
+
+   One of my strengths is my ability to stay focused on a task, which helps me maintain my dedication and deliver quality work. I am also a quick learner with a strong desire to continuously improve my skills. As for my weaknesses, I find it challenging to multitask, as I tend to get distracted when trying to juggle multiple tasks at once.
+
+4. **Describe a challenging situation you faced at work and how you dealt with it.**
+
+   As a fresher, I haven't faced many challenging situations yet. However, if I encounter one, my first step would be to thoroughly analyze the situation to understand what I can do to resolve it. If needed, I wouldn't hesitate to consult with my seniors or higher authorities to seek guidance and ensure that I put my best effort into finding a solution.
+
+5. **Where do you see yourself in 5 years?**
+
+   In five years, I see myself advancing within this company, taking on more responsibilities, and contributing to important projects. I want to build my skills in [specific area related to the job, e.g., full-stack development or a particular technology] and eventually take on leadership roles. My goal is to keep growing professionally and make a positive impact on the team and the company.
